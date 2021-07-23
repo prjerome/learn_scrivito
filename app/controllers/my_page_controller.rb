@@ -1,0 +1,2 @@
+class MyPageController < CmsController
+end
